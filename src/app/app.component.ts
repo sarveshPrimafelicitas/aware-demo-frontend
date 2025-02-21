@@ -4,7 +4,7 @@ import { CreateTokenComponent } from './pages/create-token/create-token.componen
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, CreateTokenComponent],
+  imports: [RouterOutlet],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
