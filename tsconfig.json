@@ -23,5 +23,9 @@
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": true
-  }
+  },
+
+  // "colors": {
+  //   "primaryBlue": "#0352C9" // Custom Primary Color
+  // }
 }
