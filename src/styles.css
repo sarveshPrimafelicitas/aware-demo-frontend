@@ -30,7 +30,7 @@
 }
 
 .st-input {
-  @apply outline-none border border-[#DDDEE4] text-xs p-1 font-medium;
+  @apply outline-none border border-[#DDDEE4] text-xs p-1 font-medium w-full;
 }
 
 .form-container-two-col {
